@@ -1,0 +1,2 @@
+# GTASAUnity
+We're porting GTA: San Andreas to Unity!  This won't be a complete re-implementation of the game, but we're hoping to build something similar to Multi Theft Auto with assets streamed from an existing installation of San Andreas.  Setup Instructions Before opening the project you'll need to run the premake script. A Windows binary is included, but for other platforms you'll need to install premake 5 yourself.  On Windows, run premake.bat. For Mac and Linux, use premake.sh.
